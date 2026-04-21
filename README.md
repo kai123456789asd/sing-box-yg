@@ -2,10 +2,10 @@
 ### VPS专用一键脚本如下：快捷方式：```sb```
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/kai123456789asd/sing-box-yg/main/sb.sh)
 ```
 或者
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(curl -Ls https://raw.githubusercontent.comkai123456789asd/sing-box-yg/main/sb.sh)
 ```
 
